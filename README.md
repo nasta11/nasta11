@@ -2,9 +2,13 @@
 
 <img src="https://img.shields.io/badge/Python-8470FF?style=for-the-badge&logo=Python&logoColor=EE82EE"/>
 <img src="https://img.shields.io/badge/HTML-8470FF?style=for-the-badge&logo=HTML5&logoColor=EE82EE"/>
+<img src="https://img.shields.io/badge/SQL-8470FF?style=for-the-badge&logo=mysql&logoColor=EE82EE"/>
+<img src="https://img.shields.io/badge/bi analytics-8470FF?style=for-the-badge&logo=bi analytics&logoColor=EE82EE"/>
+<img src="https://img.shields.io/badge/Excel-8470FF?style=for-the-badge&logo=microsoftexcel&logoColor=EE82EE"/>
 
+ 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L0TlLFPMJduonNDPBa/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">

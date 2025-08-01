@@ -1,7 +1,8 @@
 <h1 align="center">✨ Welcome to Web3 Witch ✨</h1>
 
 <p align="center">
-  <img src="https://witchweb3.com/banner.png" alt="Witch the Web3 way" width="70%">
+  <img src="banner.jpg" alt="Web3 Witch" width="70%">
+
 </p>
 
 ---

@@ -1,24 +1,33 @@
- <h1 align="center">✨ Welcome to Web3 Witch ✨</h1>
+<h1 align="center">✨ Welcome to Web3 Witch ✨</h1>
 
 <p align="center">
-  <img src="https://witchweb3.com/banner.png" alt="Witch the Web3 way" width="70%">
+  <img src="banner.jpg" alt="Web3 Witch Mirror" width="45%">
 </p>
 
 ---
 
-### 🧙‍♀️ About Me    исправь мне код
+### 🧙‍♀️ About Me
 
-Hi! I'm Anastasia — aka Catin Hat, a Web3 explorer, Solidity developer, and digital witch.  
+Hi! I'm Anastasia — aka `Catin Hat`, a Web3 explorer, Solidity developer, and digital witch.  
 I mix code, intuition, and the blockchain to create ✨magical dApps✨.
 
-- 🔮 Building **Web3 Witch** — an interactive Tarot & AI experience on-chain
-- ⚙️ Smart contract developer on Ethereum / Sepolia
-- 💬 Speaks Python, Solidity, HTML/CSS, JS
-- 📍 Currently based in Serbia
+- 🔮 Building **Web3 Witch** — an interactive Tarot & AI experience on-chain  
+- ⚙️ Smart contract developer on Ethereum / Sepolia  
+- 💬 Speaks Python, Solidity, HTML/CSS, JavaScript  
+- 📍 Currently based in Serbia  
 
 ---
 
-### 🔧 My Stack
+### 🔮 What is Web3 Witch?
+
+**Web3 Witch** is an experimental digital tarot powered by Web3 and intuition.  
+Draw a card, read its message, and reflect — each card is a unique blend of symbolism, tech, and magic.
+
+✨ _It’s not just fortune-telling — it’s pattern recognition for the decentralized age._
+
+---
+
+### 🧰 Tech Stack
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,12 +39,13 @@ I mix code, intuition, and the blockchain to create ✨magical dApps✨.
 
 ### 🌐 Links
 
-- 🔗 [My Website](https://witchweb3.com)
-- 💬 [Telegram](https://t.me/NastaKasi)
-- 🐦 [Twitter](https://twitter.com/) *(add your handle if you want)*
-- 💼 [LinkedIn](https://www.linkedin.com/feed/)
+- 🔗 [My Website](https://witchweb3.com)  
+- 💬 [Telegram](https://t.me/NastaKasi)  
+- 🐦 [Twitter](https://twitter.com/) *(add your handle if needed)*  
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)  
 - 🎴 [Web3 Tarot Project](https://github.com/nasta11/web3-witch)
 
 ---
 
-✨ *Witch the Web3 way... or get left behind in Web2.*  
+✨ *Witch the Web3 way... or get left behind in Web2.*
+ 

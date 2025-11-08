@@ -1,43 +1,48 @@
-<h1 align="center">✨ Welcome to Web3 Witch ✨</h1>
-
 <p align="center">
-  <img src="https://witchweb3.com/banner.png" alt="Witch the Web3 way1" width="70%">
-</p> 
+  <img src="banner-mystic.jpg" alt="Web3 Witch Banner" width="100%"/>
+</p>
 
+# 🌙 Anastasiia Kaplenko | Solidity & AI Developer  
 
-
----
-
-### 🧙‍♀️ About Me
-
-Hi! I'm Anastasia — aka `Catin Hat`, a Web3 explorer, Solidity developer, and digital witch.  
-I mix code, intuition, and the blockchain to create ✨magical dApps✨.
-
-- 🔮 Building **Web3 Witch** — an interactive Tarot & AI experience on-chain  
-- ⚙️ Smart contract developer on Ethereum / Sepolia  
-- 💬 Speaks Python, Solidity, HTML/CSS, JS  
-- 📍 Currently based in Serbia  
+> 🧙‍♀️ Web3 Witch • Solidity Architect • AI Explorer  
 
 ---
 
-### 🔧 My Stack
-
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-### 🌐 Links
-
-- 🔗 [My Website](https://witchweb3.com)  
-- 💬 [Telegram](https://t.me/NastaKasi)  
-- 🐦 [Twitter](https://twitter.com/) *(add your handle if you want)*  
-- 💼 [LinkedIn](https://www.linkedin.com/feed/)  
-- 🎴 [Web3 Tarot Project](https://github.com/nasta11/web3-witch)  
+### 🧰 Tech Stack  
+- **Solidity** — ERC-20 / ERC-721 / DeFi / Proxy / Factory  
+- **Hardhat**, **JavaScript**, **Web3.js**  
+- **Python (TensorFlow / PyTorch)**  
+- **AI, Machine Learning, Reinforcement Learning**  
+- **Remote Education:** Moscow (online)  
+- 🌍 Currently based in Serbia  
 
 ---
 
-✨ *Witch the Web3 way... or get left behind in Web2.*
+### 🚀 Featured Projects  
+
+#### 🪙 Token Contract  
+Smart ERC-20 token with mint & burn functionality.  
+🔗 [GitHub link]  
+💬 **1000+ interactions** on Sepolia testnet.  
+
+#### 🤖 AI Predictor  
+Machine Learning model for data forecasting & classification.  
+🔗 [GitHub link]  
+🎯 **95 % accuracy** on validation set.  
+
+#### 💰 DeFi Bot  
+A minimal smart contract for future DeFi automation.  
+```solidity
+// Save as DeFiBot.sol
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.27;
+
+contract DeFiBot {
+    event Swapped(address indexed user, uint256 amountIn, uint256 amountOut);
+
+    function swap() public {
+        // Future logic for Uniswap V3 + Chainlink Oracle
+        emit Swapped(msg.sender, 0, 0);
+    }
+}
+

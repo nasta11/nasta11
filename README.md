@@ -28,7 +28,7 @@ Smart ERC-20 token with mint & burn functionality.
 #### 🤖 AI Predictor  
 Machine Learning model for data forecasting & classification.  
 🔗 [GitHub link]  
-🎯 **95 % accuracy** on validation set.  
+🎯 ML model for forecasting & classification (baseline models + evaluation).  
 
 #### 💰 DeFi Bot  
 A minimal smart contract for future DeFi automation.  

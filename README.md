@@ -23,7 +23,7 @@
 #### 🪙 Token Contract  
 Smart ERC-20 token with mint & burn functionality.  
 🔗 [GitHub link]  
-💬 **1000+ interactions** on Sepolia testnet.  
+💬 Deployed on Sepolia testnet (contract + tx history).  
 
 #### 🤖 AI Predictor  
 Machine Learning model for data forecasting & classification.  

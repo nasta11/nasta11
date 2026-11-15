@@ -25,6 +25,8 @@ Telegram: [@NastaKasi](https://t.me/NastaKasi) · Based in Serbia, working remot
 
 **Мой архив (My Archive)** — a mobile app for family memories: stories by voice, text, photo and short video, a family tree, shared family access by invite code, a PDF book. Works offline. Expo + React Native, with a Vercel + Supabase backend. Android test build; private repository.
 
+**[Client Radar](https://nasta11.github.io/radar/)** — a free browser tool for small businesses: pick your trade and get search phrases that find people on Threads who are looking for your service right now. No sign-up, no server. In Russian.
+
 **[LifeArchive](https://github.com/nasta11/lifearchive)** — a Web3 proof vault: client-side AES-GCM encryption, encrypted storage on IPFS, an on-chain SHA-256 proof. Base Sepolia testnet.
 
 **[Upgradeable Token Factory](https://github.com/nasta11/upgradeable-token-factory)** — ERC-20 with Permit and role-based access, upgradeable through a UUPS proxy, cloned by a factory. Hardhat tests.

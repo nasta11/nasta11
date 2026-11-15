@@ -1,48 +1,42 @@
 <p align="center">
-  <img src="banner-mystic.jpg" alt="Web3 Witch Banner" width="100%"/>
+  <img src="banner-mystic.jpg" alt="Banner" width="100%"/>
 </p>
 
-# 🌙 Anastasiia Kaplenko | Solidity & AI Developer  
+# Anastasiia Kaplenko
 
-> 🧙‍♀️ Web3 Witch • Solidity Architect • AI Explorer  
+**Mobile apps, backends, Telegram bots and smart contracts.**
+I take a project from an idea to a build you can install on a phone.
 
----
+**Portfolio (in Russian): https://nasta11.github.io**
+Telegram: [@NastaKasi](https://t.me/NastaKasi) · Based in Serbia, working remotely
 
-### 🧰 Tech Stack  
-- **Solidity** — ERC-20 / ERC-721 / DeFi / Proxy / Factory  
-- **Hardhat**, **JavaScript**, **Web3.js**  
-- **Python (TensorFlow / PyTorch)**  
-- **AI, Machine Learning, Reinforcement Learning**  
-- **Remote Education:** Moscow (online)  
-- 🌍 Currently based in Serbia  
+Разрабатываю мобильные приложения, серверы, Telegram-ботов и смарт-контракты. Портфолио: https://nasta11.github.io
 
----
+## What I build
 
-### 🚀 Featured Projects  
+| Area | Tools |
+| --- | --- |
+| Mobile apps (iOS and Android) | React Native, Expo, TypeScript, SQLite |
+| Backend | Vercel, Supabase, PostgreSQL, Prisma, FastAPI |
+| Bots and automation | Python, WebSocket, Telegram Bot API |
+| Smart contracts | Solidity, OpenZeppelin, UUPS proxies, Hardhat tests |
 
-#### 🪙 Token Contract  
-Smart ERC-20 token with mint & burn functionality.  
-🔗 [GitHub link]  
-💬 Deployed on Sepolia testnet (contract + tx history).  
+## Projects
 
-#### 🤖 AI Predictor  
-Machine Learning model for data forecasting & classification.  
-🔗 [GitHub link]  
-🎯 ML model for forecasting & classification (baseline models + evaluation).  
+**Мой архив (My Archive)** — a mobile app for family memories: stories by voice, text, photo and short video, a family tree, shared family access by invite code, a PDF book. Works offline. Expo + React Native, with a Vercel + Supabase backend. Android test build; private repository.
 
-#### 💰 DeFi Bot  
-A minimal smart contract for future DeFi automation.  
-```solidity
-// Save as DeFiBot.sol
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.27;
+**[LifeArchive](https://github.com/nasta11/lifearchive)** — a Web3 proof vault: client-side AES-GCM encryption, encrypted storage on IPFS, an on-chain SHA-256 proof. Base Sepolia testnet.
 
-contract DeFiBot {
-    event Swapped(address indexed user, uint256 amountIn, uint256 amountOut);
+**[Upgradeable Token Factory](https://github.com/nasta11/upgradeable-token-factory)** — ERC-20 with Permit and role-based access, upgradeable through a UUPS proxy, cloned by a factory. Hardhat tests.
 
-    function swap() public {
-        // Future logic for Uniswap V3 + Chainlink Oracle
-        emit Swapped(msg.sender, 0, 0);
-    }
-}
+**[Solana real-time monitor](https://github.com/nasta11/solana-sniper-bot)** — a Python bot that watches Solana logs over WebSocket and sends Telegram alerts. Trading is simulated only. Graduation project for the OTUS "Solidity Developer" course.
 
+**[Financial Market Analysis Platform](https://github.com/nasta11/financial-market-platform)** — a prototype: market data into PostgreSQL, charts, and a machine-learning forecast. FastAPI, Pandas, Plotly, scikit-learn.
+
+**[Gas Optimizer](https://github.com/nasta11/gas-optimizer)** — a plain and an optimized version of one contract, with gas usage measured.
+
+**[Trust-Governance Token Sale](https://github.com/nasta11/trust-governance-token-sale)** — architecture documents: trust model, threat model, security controls.
+
+## Contact
+
+Telegram: [@NastaKasi](https://t.me/NastaKasi)

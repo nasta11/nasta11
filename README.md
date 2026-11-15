@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner-mystic.jpg" alt="Banner" width="100%"/>
-</p>
-
 # Anastasiia Kaplenko
 
 **Mobile apps, backends, Telegram bots and smart contracts.**

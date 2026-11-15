@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://nasta11.github.io"><img src="banner.png" alt="Anastasiia Kaplenko: apps, backends, bots, smart contracts. Two screens of the My Archive app." width="100%"/></a>
+</p>
+
 # Anastasiia Kaplenko
 
 **Mobile apps, backends, Telegram bots and smart contracts.**

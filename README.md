@@ -5,6 +5,7 @@
 # Anastasiia Kaplenko
 
 **Mobile apps, backends, Telegram bots and smart contracts.**
+I work with small businesses under the name **Botika**.
 I take a project from an idea to a build you can install on a phone.
 
 **Portfolio (in Russian): https://nasta11.github.io**
